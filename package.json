@@ -1,0 +1,27 @@
+{
+  "name": "kk_cli",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">从0到1实现脚手架开发</h1>",
+  "main": "index.js",
+  "bin": {
+    "kkcli": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kecanwen/kk_cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kecanwen/kk_cli/issues"
+  },
+  "homepage": "https://github.com/kecanwen/kk_cli#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0"
+  }
+}
